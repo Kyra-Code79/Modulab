@@ -70,7 +70,7 @@ export const Header = () => {
               <Link href="/products" className="text-amber-50/80 hover:text-amber-200 py-2">
                 Produk
               </Link>
-              <a href="#" className="text-amber-50/80 hover:text-amber-200 py-2">
+              <a href="/" className="text-amber-50/80 hover:text-amber-200 py-2">
                 Tentang Kami
               </a>
               <a href="#" className="text-amber-50/80 hover:text-amber-200 py-2">
