@@ -36,7 +36,7 @@ export default function Home() {
         </section>
 
         {/* About Section */}
-        <section className="py-16 px-4 sm:px-6 lg:px-8 border-b border-amber-900/20">
+        <section id="about" className="py-16 px-4 sm:px-6 lg:px-8 border-b border-amber-900/20">
           <div className="mx-auto max-w-7xl grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="font-serif text-3xl font-bold mb-6">About Us</h2>
@@ -57,7 +57,7 @@ export default function Home() {
         </section>
 
         {/* Featured Products */}
-        <section className="py-16 px-4 sm:px-6 lg:px-8">
+        <section  className="py-16 px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-7xl">
             <h2 className="font-serif text-3xl font-bold mb-2 text-center">Produk Unggulan Kami</h2>
             <p className="text-amber-50/60 text-center mb-12">Koleksi produk terpilih dengan kualitas terbaik</p>

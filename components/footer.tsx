@@ -4,7 +4,7 @@ import { MapPin, Instagram, MessageCircle } from "lucide-react"
 
 export const Footer = () => {
   return (
-    <footer className="border-t border-amber-900/20 bg-slate-950 py-12">
+    <footer id="contact" className="border-t border-amber-900/20 bg-slate-950 py-12">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
